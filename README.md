@@ -1,2 +1,2 @@
-# Python_Web_Scrapper_Project
- Python, BeautifulSoup, Flask, Selenium
+# Python-Web-Scrapper
+## Python, BeautifulSoup, Flask, Selenium
